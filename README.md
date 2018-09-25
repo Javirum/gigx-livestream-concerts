@@ -100,3 +100,5 @@ User
 
 [Trello (Bug tracker)](https://trello.com/b/N0AjLO6x/gigx)
 
+### DEPLOY
+http://gigx.herokuapp.com/
